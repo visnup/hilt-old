@@ -1,5 +1,7 @@
 # Hilt
 
+> **Moved** to [visnup/games](https://github.com/visnup/games/tree/main/apps/hilt), where it continues. This repository is archived.
+
 Hilt is a card game from CMYK's Magenta line, designed by Dominique Ehrhard, for 3 to 6 players.
 It is a game of battles. Everyone is dealt 10 cards, and in each battle you go around the table
 playing cards into a row in front of you, or passing, until everyone has passed. Whoever has
